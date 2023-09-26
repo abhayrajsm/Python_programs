@@ -64,8 +64,3 @@ else:
             print(f"\n Your total amout is {bill}")        
                 
 
-# name = str(input("")).upper()
-# if name!="ABHAY":
-#     print("done")
-# else:
-#     print("not happening")

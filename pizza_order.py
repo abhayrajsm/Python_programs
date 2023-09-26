@@ -32,35 +32,35 @@ else:
             bill+=3
             if extra_chees=="Y":
                 bill+=1
-                print(f"\n Your total amout is {bill}")
+                print(f"\nYour total bill amount is {bill}$\n")
             else:
-                print(f"\n Your total amout is {bill}")   
+                print(f"\nYour total bill amount is {bill}$\n")   
         else :
             bill=15
-            print(f"\n Your total amout is {bill}")
+            print(f"\nYour total bill amount is {bill}$\n")
     elif size_of_pizza=="M" :
         bill=17
         if extra_pepparoni=="Y":
             bill+=4
             if extra_chees=="Y":
                 bill+=1
-                print(f"\n Your total amout is {bill}")
+                print(f"\nYour total bill amount is {bill}$\n")
             else:
-                print(f"\n Your total amout is {bill}")
+                print(f"\nYour total bill amount is {bill}$\n")
         else :
             bill=17
-            print(f"\n Your total amout is {bill}")
+            print(f"\nYour total bill amount is {bill}$\n")
     else :
         bill=20
         if extra_pepparoni=="Y":
             bill+=4
             if extra_chees=="Y":
                 bill+=1
-                print(f"\n Your total amout is {bill}")
+                print(f"\nYour total bill amount is {bill}$\n")
             else:
-                print(f"\n Your total amout is {bill}")
+                print(f"\nYour total bill amount is {bill}$\n")
         else :
             bill=20        
-            print(f"\n Your total amout is {bill}")        
+            print(f"\nYour total bill amount is {bill}$\n")        
                 
 
